@@ -1,0 +1,4 @@
+# Runtime dependencies used by the notebooks.
+ipykernel>=6.29,<7
+numpy>=2.0,<3
+scipy>=1.13,<2
